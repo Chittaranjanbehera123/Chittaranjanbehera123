@@ -79,28 +79,29 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Chittaranjanbehera123&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chittaranjanbehera123&show_icons=true&theme=tokyonight&hide_border=true" 
     height="180"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chittaranjanbehera123&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chittaranjanbehera123&layout=compact&theme=tokyonight&hide_border=true" 
     height="150"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Chittaranjanbehera123&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=chittaranjanbehera123&theme=tokyonight&hide_border=true" 
   />
 </p>
+
+---
+
 
 ---
 
